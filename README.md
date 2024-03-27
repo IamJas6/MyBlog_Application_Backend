@@ -1,4 +1,4 @@
-# Django Blog Application
+                                                       # Django Blog Application
 
 # MyBlog_Application_Backend
 Sure, here's a sample README.md file for your Django blog application on GitHub:
